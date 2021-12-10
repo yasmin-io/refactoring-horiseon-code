@@ -1,12 +1,16 @@
+/* The asterisk applies this styling to all elements.*/
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* General Styles */
 body {
   background-color: #d9dcd6;
 }
+
+/* Header Styles */
 
 header {
   padding: 20px;
@@ -41,16 +45,23 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
-
+/* Anchor Link Styles */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* General Paragraph Styling */
 p {
   font-size: 16px;
 }
-
+/*General CSS for Main Article Section*/
+.main-information {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+/* Image placements in Main Article Section */
 .hero {
   height: 800px;
   width: 100%;
@@ -70,12 +81,7 @@ p {
   margin-left: 25px;
 }
 
-.main-information {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
-}
-
+/*Side Article Styling*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -135,6 +141,7 @@ p {
   max-width: 150px;
 }
 
+/* Main Article Text Styling */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -188,7 +195,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* Footer Styling*/
 .footer {
   padding: 30px;
   clear: both;
@@ -197,6 +204,6 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+.footer section {
   font-size: 20px;
 }
