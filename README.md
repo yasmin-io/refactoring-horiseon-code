@@ -23,7 +23,7 @@ This project was a test of application of knowledge, problem solving and good in
 
 The image below displays the web application's appearance to the user after being refactored and deployed:
 
-![The full Horiseon webpage after being refactored screen shot](./assets/images/Horiseon-Web-page.png)
+![Full Horiseon Web Page](/assets/images/Horiseon-Web-page.png)
 
 > **Important:** This layout is for desktop Web Browser's only. This website is not optimized at the moment for smaller screen sizes. You will need a minimum resolution of 768px to view this website at the correct design.
 
